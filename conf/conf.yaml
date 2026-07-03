@@ -1,0 +1,4 @@
+# Cấu hình LLM
+LLM_PROVIDER: "gemini"
+GEMINI_API_KEY: "AQ.Ab8RN6K65ufWrr3wn8QqfQr-8QWdf0279qvtb9q_IMJ4p14-HA"
+GEMINI_MODEL: "gemini-2.5-flash"
